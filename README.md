@@ -1,4 +1,4 @@
-![NPM Version](https://img.shields.io/npm/v/%40xdevsoftware%2Fvaadin-usage-statistics-opt-out)
+[![NPM Version](https://img.shields.io/npm/v/%40xdevsoftware%2Fvaadin-usage-statistics-opt-out)](https://www.npmjs.com/package/@xdevsoftware/vaadin-usage-statistics-opt-out)
 
 # vaadin-usage-statistics-opt-out
 
