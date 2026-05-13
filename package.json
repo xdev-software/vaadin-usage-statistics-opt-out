@@ -1,6 +1,6 @@
 {
   "name": "@xdevsoftware/vaadin-usage-statistics-opt-out",
-  "version": "1.0.2-SNAPSHOT",
+  "version": "1.0.2",
   "description": "An opt-out version of Vaadin's usage statistics that doesn't require postinstall",
   "homepage": "https://github.com/xdev-software/vaadin-usage-statistics-opt-out#readme",
   "bugs": {
