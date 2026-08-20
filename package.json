@@ -1,0 +1,21 @@
+{
+  "name": "@xdevsoftware/vaadin-usage-statistics-opt-out",
+  "version": "1.0.2",
+  "description": "An opt-out version of Vaadin's usage statistics that doesn't require postinstall",
+  "homepage": "https://github.com/xdev-software/vaadin-usage-statistics-opt-out#readme",
+  "bugs": {
+    "url": "https://github.com/xdev-software/vaadin-usage-statistics-opt-out/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdev-software/vaadin-usage-statistics-opt-out.git"
+  },
+  "license": "Apache-2.0",
+  "author": "XDEV Software",
+  "type": "module",
+  "main": "vaadin-usage-statistics.js",
+  "private": false,
+  "files": [
+    "vaadin-usage-statistics.js"
+  ]
+}
